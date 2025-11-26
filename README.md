@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Nhi. I'm a Game Designer with a passion for creating games that celebrate the culture of Vietnam.
 
 <!--
 **nhitran31082003/nhitran31082003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
